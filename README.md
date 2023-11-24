@@ -28,7 +28,7 @@
 
 ### 2. POST 방식으로 회원가입
 
-http://localhost:8080/register으로 접속하면 회원가입 페이지(register.html)를 보여준다.
+http://localhost:8080/register 으로 접속하면 회원가입 페이지(register.html)를 보여준다.
 
 회원가입 페이지를 보여줄 때는 GET을 사용한다.
 
